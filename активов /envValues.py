@@ -24,14 +24,14 @@ ENV_VALUES = {
     'SETTINGS_WIDTH': 300,
     'SETTINGS_HEIGHT': 180,
     'FONT_NAME': 'TkDefaultFont',
-    'ALPHA_VALUE': 1.0,
-    'ALPHA_VALUE_MIN': 0.3,
-    'ALPHA_VALUE_MAX': 1.0
+    'ALPHA_VALUE': 0.7
+#     'ALPHA_VALUE_MIN': 0.3,
+#     'ALPHA_VALUE_MAX': 1.0
 }
 
 THEMES = {
     'DEFAULT': {
-        'BG_COLOR': '#13274F',
+        'BG_COLOR': '#000000',
         'FONT_COLOR': '#FFFFFF'
     },
     'HACKER': {
